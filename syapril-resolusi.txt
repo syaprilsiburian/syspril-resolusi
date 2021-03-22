@@ -1,0 +1,3 @@
+syapril resolusi
+-membuat platform untuk pembuatan web
+-membuat forum diskusi
